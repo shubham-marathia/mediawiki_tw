@@ -1,0 +1,50 @@
+[
+    {
+        "ParameterKey": "ASGGreenSize",
+        "ParameterValue": "1"
+    },
+    {
+        "ParameterKey": "ASGBlueSize",
+        "ParameterValue": "1"
+    },
+    {
+        "ParameterKey": "ASGSizeMinSize",
+        "ParameterValue": "1"
+    },
+    {
+        "ParameterKey": "ASGSizeMaxSize",
+        "ParameterValue": "4"
+    },
+    {
+        "ParameterKey": "MyVPCId",
+        "ParameterValue": "Dummy VPC Id"
+    },
+    {
+        "ParameterKey": "Subnets",
+        "ParameterValue": "Dummy Subnets ID"  
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+    },
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "Dummy EC2 Key"
+    },
+    {
+        "ParameterKey": "InternalELBName",
+        "ParameterValue": "MW_Internal_ELB"
+    },
+    {
+        "ParameterKey": "AppListenerColor",
+        "ParameterValue": "blue"
+    },
+    {
+        "ParameterKey": "TargetGroupBlueName",
+        "ParameterValue": "BlueTG"
+    },
+    {
+        "ParameterKey": "TargetGroupGreenName",
+        "ParameterValue": "GreenTG"
+    }
+]
